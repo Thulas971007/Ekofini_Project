@@ -4,6 +4,14 @@
 }
 .head{
     text-align: center;
+    position: relative;
+
+}
+.back{
+    position: absolute;
+    height: 300px;
+    width: 60%;
+    margin-left: 20%;
 }
 .slogan{
     font-family:serif;
@@ -33,6 +41,7 @@
     padding-right:0;
 }
 #Gourmet{
+    position: relative;
     text-align: center;
     font-family:fantasy;
     font-size:140%;
