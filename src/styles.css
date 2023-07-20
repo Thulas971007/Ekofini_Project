@@ -1,0 +1,86 @@
+*
+.body{
+    margin:0 ;
+    padding: 0 ;
+    background-color:rgb(228, 101, 55);
+    font-size: medium;
+
+}
+.container-fluid  {
+    text-align: right;
+    background:rgb(228, 101, 55);
+    font-style: italic;
+}
+.navbar{
+    padding: 0;
+}
+
+.nav-link{
+
+    color: aliceblue;
+}
+
+.navbar-nav{
+    text-align: right;
+}
+.navbar-nav li{
+    font-family: Arial, cursive;
+    background-color:rgb(228, 101, 55);
+    font-weight: 600;
+    
+    padding-block: 15px;
+    
+
+}
+
+.navbarNav{
+    text-align: right;
+    padding: 0;
+}
+.navbar-toggler{
+    outline: none;
+    border: none;
+    padding: 0;
+}
+.brand_logo{
+    
+ height:auto;
+ width:auto ;
+ padding-left: px;
+
+
+}
+
+/*-------BANNER-------*/
+
+#banner{
+    background-color:#fff;
+    padding-top: %;
+    margin-top: 0;
+}
+.promo-title{
+    font-style: italic;
+    font-size: 45px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+.Home_2{
+    height: auto;
+    width: 100%;
+}
+.col-md-6{
+    padding: 0%;
+}
+.play-btn{
+    text-align: center;
+height: auto;
+width: 35%;
+}
+#login_backround{
+    background-color:rgb(228, 101, 55);
+    border: 15px;
+    border-color: aquamarine;
+    margin: 1%;
+    padding: 100px;
+}

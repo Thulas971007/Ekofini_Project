@@ -1,0 +1,46 @@
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+// Include any default variable overrides here (though functions won't be available)
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+// Required
+@import "../node_modules/bootstrap/scss/functions";
+
+// Default variable overrides
+$body-bg: #000;
+$body-color: #111;
+
+// Required
+@import "../node_modules/bootstrap/scss/variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+
+// Optional Bootstrap components here
+@import "../node_modules/bootstrap/scss/reboot";
+@import "../node_modules/bootstrap/scss/type";
+// etc
+*
+// Then add additional custom code here
+*
+
+.header{
+    font-family:'Times New Roman';
+background-color: blueviolet;
+
+}
+
+.nav-bar{
+position:sticky;
+top: 0;
+z-index: 10;
+
+}
+
+.navbar{
+background-image: linear-gradient(to righ, #a15612,#13d363 );
+padding: 0;
+}
+
