@@ -1,4 +1,7 @@
 *
+.body{
+    background-color: aqua;
+}
 .head{
     text-align: center;
 }
@@ -19,11 +22,9 @@
     text-align: center;
     color: tan;
 }
-#navbarNav_1{
-    margin-left: 25%;
-}
+/* #navbarNav_1{
+} */
 #nav-bar{
-    margin-left: 40%;
     padding: 0px;
 
 }
