@@ -33,6 +33,7 @@
     padding-right:0;
 }
 #Gourmet{
+    text-align: center;
     font-family:fantasy;
     font-size:140%;
     font-style: italic;
@@ -41,8 +42,8 @@
 }
 .burger_1{
     height: auto;
-    width: 20%;
-    margin-left: 5%;
+    width: 10%;
+    margin-left: 0%;
 }
 #p1{
     margin: 1%;
