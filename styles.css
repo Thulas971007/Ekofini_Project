@@ -32,13 +32,23 @@
     padding-left:0;
     padding-right:0;
 }
+#Gourmet{
+    font-family:fantasy;
+    font-size:140%;
+    font-style: italic;
+    font-weight: 100;
+    color: rgb(29, 231, 73);
+}
 .burger_1{
     height: auto;
-    width: 70%;
+    width: 20%;
     margin-left: 5%;
 }
 #p1{
     margin: 1%;
-    margin-right: 50%;
-    text-align-last: left;
+    margin-right: 0%;
+    align-content: center;
+}
+.col{
+    padding: 0.5%;
 }
